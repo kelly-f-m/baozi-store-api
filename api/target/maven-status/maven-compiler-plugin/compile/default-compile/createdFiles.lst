@@ -1,0 +1,10 @@
+com/baozistore/api/controller/PedidoController.class
+com/baozistore/api/repository/PedidoRepository.class
+com/baozistore/api/controller/ProdutoController.class
+com/baozistore/api/model/Produto.class
+com/baozistore/api/model/Cliente.class
+com/baozistore/api/model/Pedido.class
+com/baozistore/api/repository/ProdutoRepository.class
+com/baozistore/api/repository/ClienteRepository.class
+com/baozistore/api/ApiApplication.class
+com/baozistore/api/controller/ClienteController.class

@@ -1,0 +1,10 @@
+/workspaces/baozi-store-api/api/src/main/java/com/baozistore/api/ApiApplication.java
+/workspaces/baozi-store-api/api/src/main/java/com/baozistore/api/controller/ClienteController.java
+/workspaces/baozi-store-api/api/src/main/java/com/baozistore/api/controller/PedidoController.java
+/workspaces/baozi-store-api/api/src/main/java/com/baozistore/api/controller/ProdutoController.java
+/workspaces/baozi-store-api/api/src/main/java/com/baozistore/api/model/Cliente.java
+/workspaces/baozi-store-api/api/src/main/java/com/baozistore/api/model/Pedido.java
+/workspaces/baozi-store-api/api/src/main/java/com/baozistore/api/model/Produto.java
+/workspaces/baozi-store-api/api/src/main/java/com/baozistore/api/repository/ClienteRepository.java
+/workspaces/baozi-store-api/api/src/main/java/com/baozistore/api/repository/PedidoRepository.java
+/workspaces/baozi-store-api/api/src/main/java/com/baozistore/api/repository/ProdutoRepository.java
